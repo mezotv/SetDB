@@ -7,9 +7,10 @@ Database based on concepts of Set Theory.
 
 ## Quick Links
 
-- [Commands](#commands)
-- [Flags](#flags)
+- [Commands](#Commmands)
+- [Flags](#Flags)
 - [Maintainers](#Maintainers)
+
 ## Commmands
 
 - **`list [search terms]`**: 
